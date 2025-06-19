@@ -1,0 +1,38 @@
+[
+  {
+    "role": "Junior Software Engineer",
+    "organisation": "Sparks To Ideas",
+    "startDate": "Jun, 2022",
+    "endDate": "July, 2023",
+    "experiences": [
+      "Worked as a React Front-End Developer at Sparks To Ideas",
+      "Built reusable components using React.js",
+      "Styled applications using Tailwind CSS and Material UI",
+      "Integrated RESTful APIs and handled dynamic data rendering",
+      "Implemented routing using React Router",
+      "Developed a service booking platform and an eCommerce site",
+      "Added product filtering, search, and cart functionality",
+      "Performed form validations and ensured mobile responsiveness",
+      "Collaborated with back-end developers in an Agile team"
+      
+    ]
+  },
+
+  {
+    "role": "Freelance Front-End & MERN Stack Developer",
+    "organisation": "Various freelancing platforms",
+    "startDate": "2025",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on freelance projects focused on front-end and full-stack development",
+    "Built responsive user interfaces and integrated them with RESTful APIs",
+    "Applied skills from MERN stack training to real-world scenarios",
+    "Implemented user authentication with JWT",
+    "Added real-time features using WebRTC and Socket.IO",
+    "Delivered functional web apps for clients with features like dashboards, live chat"
+    
+    ]
+  }
+
+
+]
