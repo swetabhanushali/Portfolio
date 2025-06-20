@@ -3,7 +3,7 @@
  
 {
   "title": "Personal Portfolio Website",
-  "imageSrc": "projects/project.png",
+  "imageSrc": "projects/Portfolio.png",
   "description": "My personal portfolio showcasing my skills, projects, contact details, and live demos. Built to share who I am, the work I want to do, and provide direct links to GitHub and live projects.",
   "skills": ["React.js", "HTML", "CSS", "JavaScript"],
   "demo": "https://myportfolio-j9eu.onrender.com/",
@@ -21,7 +21,7 @@
 
   {
   "title": "Zerodha Clone – Full-Stack Stock Trading App",
-  "imageSrc": "projects/project.png",
+  "imageSrc": "projects/Zerodha.png",
   "description": "A full-stack stock trading platform clone built for a freelance client's semester project. Features include mock trading, watchlists,and portfolio tracking.",
   "skills": ["React.js", "Bootstrap", "Material UI", "Node.js", "Express.js", "MongoDB"],
   "demo": "https://zerodha-frontend-xmed.onrender.com",
